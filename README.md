@@ -4,7 +4,7 @@ Speak the approximate time
 
 saytime.py
 
-*saytime* was written in Scheme scripting language and supplied with Festival 
+**saytime** was written in Scheme scripting language and supplied with Festival 
 Speech Synthesis System
 
 Re-written in python3 and enhanced to provide day, month, year, day-of-week.
